@@ -3,7 +3,7 @@
 Plugin Name: VoIP Server Manager
 Plugin URI:  https://github.com/taskforcedev/wp-voip
 Description: A plugin for managing voip servers and widgets.
-Version:     1.5
+Version:     0.0.1
 Author:      PrivateSniper
 Author URI:  http://privatesniper.uk
 License:     GPL2
